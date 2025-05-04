@@ -7,3 +7,6 @@
 ## Education
 - TGA
 - Klara Södra
+
+
+![Picture of Noel Toivio](noeltoivio.jpg)
