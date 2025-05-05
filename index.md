@@ -1,24 +1,16 @@
-
-
 # Greetings!
 
 <img src="noeltoivio.jpg" alt="Image of Noel Toivio" width="30%" height="" style="float:right; border-radius: 10%; margin: 0 0 15px 15px;">
 
 My name is Noel Toivio and I specialize in Game Design, but I love to get involved in all parts of development. Games are made together after all!
+
+**Career Summary**
+- 2 released commercial games
+- 5+ years of professional experience as a Designer
+- 5 Years of Game Design education
 
 ___
 
-# Greetings!
-
-<img src="noeltoivio.jpg" alt="Image of Noel Toivio" width="30%" height="" style="float:right; border-radius: 10%; margin: 0 0 15px 15px;">
-
-My name is Noel Toivio and I specialize in Game Design, but I love to get involved in all parts of development. Games are made together after all!
-
-**Career Summary**
-- 2 released commercial games
-- 5+ years of professional experience as a Designer
-- 5 Years of Game Design education
-
 # Examples of my work ⬇️
 
 ## Trailmakers 2.0 - Pioneers
@@ -126,7 +118,11 @@ Onboarding and FTUE
 
 ![Picture of Noel Toivio](noeltoivio.jpg)
 
-when I was a kid I believed being a game developer meant scratching game discs by hand all day. And I still wanted to become one.
-My idea of making games has changed a lot since then, but my passion stays the same.
+___
 
-_________________
+*When I was a kid I believed being a game developer meant scratching game discs by hand all day. And I still wanted to become one.
+My idea of making games has changed a lot since then, but my passion stays the same.*
+
+Feel free to reach out!
+
+Resumé/CV | LinkedIn | noel@toivio.se
