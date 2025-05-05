@@ -50,14 +50,19 @@ Onboarding and FTUE
 - Store UX Design
 
 
-<a href="https://github.com/pages-themes/minimal" class="btn">Read More</a>
 
+## Solo Projects
+
+# Sumo Ball
 <video muted="" autoplay="" controls="" loop="" height="320px" style="max-width:100%;">
     <source src="sumoball_action.mp4" type="video/mp4">
 </video>
 
-## Personal Projects
-[Sumo Ball](sumo_ball.md)
+### Project info
+- 100% made by me
+- Developed in Unreal using Blueprint scripting
+
+|[Learn more about my design thought process working on Sumo Ball](https://noeltoivio.wixsite.com/projects/sumo-ball)|
 
 ![Picture of Noel Toivio](noeltoivio.jpg)
 
