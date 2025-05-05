@@ -31,6 +31,8 @@ Onboarding and FTUE
 - Beginner Tutorial
 - New feature introductions
 
+[Click here to learn more about my design thought process on Trailmakers](sumo_ball.md)
+
 ## Rubber Bandits
 
 <video muted="" autoplay="" controls="" loop="" height="320px" style="max-width:100%;">
@@ -54,16 +56,16 @@ Onboarding and FTUE
     <source src="sumoball_action.mp4" type="video/mp4">
 </video>
 
-
+## Personal Projects
 [Sumo Ball](sumo_ball.md)
 
 ![Picture of Noel Toivio](noeltoivio.jpg)
 
 ___
 
-*When I was a kid I believed being a game developer meant scratching game discs by hand all day. And I still wanted to become one.
-My idea of making games has changed a lot since then, but my passion stays the same.*
+*"When I was a kid I believed being a game developer meant scratching game discs by hand all day. And I still wanted to become one.
+My idea of making games has changed a lot since then, but my passion stays the same."*
 
-Feel free to reach out!
+### Feel free to reach out!
 
 [Resumé/CV](NoelToivio_CV.pdf) | [LinkedIn](https://www.linkedin.com/in/noel-toivio/) | noel@toivio.se
