@@ -8,11 +8,11 @@
 }
 
 .btn {
-    color: rgb(255 255 255);
-    background-color: rgb(41 41 41 / 57%);
+    color: rgb(255, 255, 255) !important;
+    background-color: rgb(41, 41, 41, 0.57) !important;
 }
 
 .btn:hover {
-    color: rgb(255 255 255);
-    background-color: rgb(65 65 65 / 42%);
+    color: rgb(255 255 255) !important;
+    background-color: rgb(65, 65, 65, 0.42) !important;
 }
