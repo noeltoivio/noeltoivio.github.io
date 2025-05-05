@@ -19,17 +19,17 @@ My name is Noel Toivio and I specialize in Game Design, but I love to get involv
     <source src="TrailmakersPioneers_Trailer.mp4" type="video/mp4">
 </video>
 
-Released on Steam, Playstation 4, Playstation 5, Xbox One and Xbox Series S/X
+> Released on Steam, Playstation 4, Playstation 5, Xbox One and Xbox Series S/X
 
-> ### Main Design Responsibilites
-> Combat Design
-> - Boss Design 1, 2 & 3
-> - All new enemy types
-> - New weapons
-> 
-> Onboarding and FTUE
-> - Beginner Tutorial
-> - New feature introductions
+### Main Design Responsibilites
+Combat Design
+- Boss Design 1, 2 & 3
+- All new enemy types
+- New weapons
+
+Onboarding and FTUE
+- Beginner Tutorial
+- New feature introductions
 
 ## Rubber Bandits
 
@@ -37,7 +37,7 @@ Released on Steam, Playstation 4, Playstation 5, Xbox One and Xbox Series S/X
     <source src="RubberBandits_Trailer.mp4" type="video/mp4">
 </video>
 
-Released on Steam, Playstation 4, Xbox One, Xbox Series S/X and Nintendo Switch
+> Released on Steam, Playstation 4, Xbox One, Xbox Series S/X and Nintendo Switch
 
 ### What I designed on the project
 - Weapons and Items
