@@ -1,29 +1,26 @@
-# Noel Toivio's Portfolio
-
-## Professional work
-- Flashbulb
-- Apprope
-
-## Education
-- TGA
-- Klara Södra
-
-
-![Picture of Noel Toivio](noeltoivio.jpg)
-
 <img src="noeltoivio.jpg" alt="Image of Noel Toivio" width="30%" height="" style="float:right; border-radius: 10%; margin: 0 0 15px 15px;">
+
+# Greetings!
+
+When I was a kid I believed being a game developer meant scratching game discs by hand all day. And I still wanted to become one.
+My idea of making games has changed a lot since then, but my passion stays the same.
+
+
 
 
 # Trailmakers 2.0 - Pioneers
 [![Trailmakers 2.0 Pioneers](https://img.youtube.com/vi/jIPBtURAWxU/0.jpg)](https://www.youtube.com/watch?v=jIPBtURAWxU)
-## Responsibilites
+## Design Responsibilites
 Combat Design
 - Boss Design 1, 2 & 3
-- 4 new enemy types
+- All new enemy types
+- New weapons
 
 Onboarding and FTUE
 - Beginner Tutorial
-- Gameplay hints
+- New feature introductions
+
+
 
 <a href="https://github.com/pages-themes/cayman" class="btn">Read More</a>
 
@@ -33,3 +30,5 @@ Onboarding and FTUE
 
 
 [Sumo Ball](sumo_ball.md)
+
+![Picture of Noel Toivio](noeltoivio.jpg)
