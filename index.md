@@ -13,7 +13,19 @@
 
 <img src="noeltoivio.jpg" alt="Image of Noel Toivio" width="30%" height="" style="float:right; border-radius: 10%; margin: 0 0 15px 15px;">
 
-[![Trailmakers 2.0 Pioneers](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=jIPBtURAWxU)
+
+# Trailmakers 2.0 - Pioneers
+[![Trailmakers 2.0 Pioneers](https://img.youtube.com/vi/jIPBtURAWxU/0.jpg)](https://www.youtube.com/watch?v=jIPBtURAWxU)
+## Responsibilites
+Combat Design
+- Boss Design 1, 2 & 3
+- 4 new enemy types
+
+Onboarding and FTUE
+- Beginner Tutorial
+- Gameplay hints
+
+<a href="https://github.com/pages-themes/cayman" class="btn">Read More</a>
 
 <video muted="" autoplay="" controls="" loop="" height="320px" style="max-width:100%;">
     <source src="sumoball_action.mp4" type="video/mp4">
