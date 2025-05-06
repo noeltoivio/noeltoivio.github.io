@@ -46,7 +46,7 @@ Onboarding and First Time User Experience (FTUE)
 - Beginner Tutorial
 - New feature introductions
 
-<a href="sumo_ball.html" class="btn">Design thought process ↗</a>
+<a href="trailmakers.html" class="btn">Design thought process ↗</a>
 
 ## Rubber Bandits
 
@@ -65,14 +65,16 @@ Onboarding and First Time User Experience (FTUE)
 - Store UX Design
 
 ## Bubble Breeze Pop
-<video muted="" autoplay="" controls="" loop="" height="320px" style="max-width:100%;">
+<video muted="" autoplay="" controls="" loop="" height="400px" style="max-width:100%;">
     <source src="BubbleBreezePop_Trailer.mp4" type="video/mp4">
 </video>
 
-> Released on iOS
+> Released on iOS and Android
 
 ### What I designed
 - 150+ unique levels
+
+<br>
 
 # Solo Projects
 
@@ -85,20 +87,14 @@ Onboarding and First Time User Experience (FTUE)
 - 100% made by me
 - Developed in Unreal using Blueprint scripting
 
-<a href="sumo_ball.md" class="btn">Design thought process ↗</a>
-
-
-
-![Picture of Noel Toivio](noeltoivio.jpg)
+<a href="sumo_ball.html" class="btn">Design thought process ↗</a>
 
 ___
 
 *"When I was a kid I believed being a game developer meant scratching game discs by hand all day. And this still didn't stop me wanting to become one.
 My understanding of making games has changed a lot since then, but my passion stays the same."*
 
-On my free time you can find me on the wakeboard, playing table tennis, studying psychology, learning a new instrument, and playing lots and lots of games. Of course, all at the same time 😎
-
-
+On my free time you can find me on the wakeboard, playing table tennis, studying psychology, learning a new instrument, and playing lots and lots of games.
 
 ### Feel free to reach out!
 

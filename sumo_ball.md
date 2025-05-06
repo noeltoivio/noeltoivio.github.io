@@ -4,9 +4,9 @@ title: Noel Toivio
 button: false
 ---
 
-# What is Sumo Ball?
+# Sumo Ball
 
-
+A solo project
 
 ## Objective
 It's a 1-on-1 fighting game where the players compete over occupying the center circle to gain score.
