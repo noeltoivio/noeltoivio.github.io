@@ -11,7 +11,7 @@
 
 <img src="noeltoivio.jpg" alt="Image of Noel Toivio" width="30%" height="" style="float:right; border-radius: 10%; margin: 0 0 15px 15px;">
 
-## Greetings, traveler!
+# Greetings, traveler!
 
 My name is Noel Toivio and I specialize in Game Design. I have been described as a dreamer, communicator, and realist, and my favorite feeling is when the whole team gets involved in making all our individual dreams come true.
 
@@ -26,7 +26,9 @@ My name is Noel Toivio and I specialize in Game Design. I have been described as
 <br>
 <br>
 
-# Examples of my work ⬇️
+___
+
+# Examples of my work
 
 ## Trailmakers 2.0 - Pioneers
 

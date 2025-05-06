@@ -6,7 +6,7 @@ button: false
 
 # Sumo Ball
 
-A solo project
+> Sumo Ball is one of my student portfolio pieces from my time at The Game Assembly back in 2020. The quality of my work has improved since then but by all means — feel free to take a look!
 
 ## Objective
 It's a 1-on-1 fighting game where the players compete over occupying the center circle to gain score.
@@ -91,7 +91,7 @@ ___
 
 # Input System and Selecting Abilities
 
-I wanted the players to have full control over what inputs or set-ups they wanted. So I let the abilities get bound to any key, with a few exceptions like the Dash button or Pause button
+I wanted the players to have full control over what inputs or set-ups they wanted. So I let the abilities get bound to any key, with a few exceptions like the Dash button or Pause button.
 
 <video muted="" autoplay="" controls="" loop="" height="250px" style="max-width:100%;">
     <source src="sumoball_input1.mp4" type="video/mp4">
@@ -120,7 +120,7 @@ ___
 </video>
 
 Liked:
-> I wanted the score bar to be seen well in the peripheral vision. (so the player could focus on the action instead of looking to the sides).
+> I wanted the score bar to be seen well in the peripheral vision (so the player could focus on the action instead of looking to the sides).
 
 Didn't like:
 > Having one long bar made it hard to estimate how much score one needed left. 
