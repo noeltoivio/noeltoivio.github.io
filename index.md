@@ -9,7 +9,7 @@
 </style>
 
 
-<img src="noeltoivio.jpg" alt="Image of Noel Toivio" width="30%" height="" style="float:right; border-radius: 10%; margin: 0 0 15px 15px;">
+<img src="noel toivio 2.jpg" alt="Image of Noel Toivio" width="30%" height="" style="float:right; border-radius: 10%; margin: 0 0 15px 15px;">
 
 # Greetings, traveler!
 
@@ -67,7 +67,7 @@ Onboarding and First Time User Experience (FTUE)
 - Store UX Design
 
 ## Bubble Breeze Pop
-<video muted="" autoplay="" controls="" loop="" height="400px" style="max-width:100%;">
+<video muted="" autoplay="" controls="" loop="" height="500px" style="max-width:100%;">
     <source src="BubbleBreezePop_Trailer.mp4" type="video/mp4">
 </video>
 
