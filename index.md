@@ -24,8 +24,7 @@ My name is Noel Toivio and I specialize in Game Design. I have been described as
 🎓 5 Years of Game Design education
 
 <br>
-
-<i>If you want to get a feel for my thought process when designing, press the "Design thought process" buttons under the projects down below.</i>
+<br>
 
 # Examples of my work ⬇️
 
@@ -38,16 +37,16 @@ My name is Noel Toivio and I specialize in Game Design. I have been described as
 > Released on Steam, Playstation 4, Playstation 5, Xbox One and Xbox Series S/X
 
 ### Design Responsibilites
-Spearheading Combat Design
+Combat Design
 - Boss Design 1, 2 & 3
 - All new enemy types
 - New player weapons
 
-Spearheading Onboarding and FTUE
+Onboarding and First Time User Experience (FTUE)
 - Beginner Tutorial
 - New feature introductions
 
-<a href="sumo_ball.html" class="btn">Design thought process</a>
+<a href="sumo_ball.html" class="btn">Design thought process ↗</a>
 
 ## Rubber Bandits
 
@@ -73,7 +72,7 @@ Spearheading Onboarding and FTUE
 > Released on iOS
 
 ### What I designed
-- 150+ levels
+- 150+ unique levels
 
 # Solo Projects
 
@@ -86,7 +85,7 @@ Spearheading Onboarding and FTUE
 - 100% made by me
 - Developed in Unreal using Blueprint scripting
 
-<a href="sumo_ball.md" class="btn">Design thought process</a>
+<a href="sumo_ball.md" class="btn">Design thought process ↗</a>
 
 
 
