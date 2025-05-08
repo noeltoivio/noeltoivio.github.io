@@ -23,10 +23,43 @@ My name is Noel Toivio and I specialize in <b>Game Design</b>. I have been descr
 
 🎓 5 Years of Game Design education
 
+
+
 <br>
 
-<div style="width: 100vw; margin-left: calc(-50vw + 50%); text-align: center;">
-  <img src="Noel_Toivio_Released_Games_Banner.png" alt="Noel Toivio's Released Games Banner" style="max-width: none; width: 1219px; height: 339px;">
+[Resumé/CV](NoelToivio_CV.pdf) | [LinkedIn](https://www.linkedin.com/in/noel-toivio/) | [noel@toivio.se](mailto:noel@toivio.se)
+
+<br>
+
+<style>
+  .full-width-banner-container {
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    width: 100vw;
+    overflow-x: hidden;
+    text-align: center;
+  }
+
+  .full-width-banner-image {
+    display: block;
+    margin: 0 auto;
+    width: 1219px;
+    max-width: none;
+    height: auto;
+  }
+
+  body {
+    overflow-x: hidden;
+  }
+</style>
+
+<div class="full-width-banner-container">
+  <img src="Noel_Toivio_Released_Games_Banner.png"
+       alt="Noel Toivio's Released Games Banner"
+       class="full-width-banner-image">
 </div>
 
 <br>
@@ -36,29 +69,29 @@ My name is Noel Toivio and I specialize in <b>Game Design</b>. I have been descr
 
 ## Trailmakers 2.0 - Pioneers
 
-<video muted="" autoplay="" controls="" loop="" height="320px" style="max-width:100%;">
+<video muted="" autoplay="" controls="" loop="" height="360px" style="max-width:100%;">
     <source src="TrailmakersPioneers_Trailer.mp4" type="video/mp4">
 </video>
 
 > <b>Released:</b> March 2025 <br>
 > <b>Platforms:</b> Steam, Playstation 4, Playstation 5, Xbox One and Xbox Series S/X
 
-I was both Head Design Responsible for <b>combat</b> (which meant spearheading the boss designs, enemies, new weapons) as well as being responsible for <b>onboarding and first time user experience</b>, which meant designing the tutorial and new feature introductions. This was extra important in TM as one of the main problems with the game throughout it's history was the large amount of players dropping the game early on because of it's complexity.
+I was both Head Design Responsible for <b>combat</b> (which meant spearheading the boss designs, enemies, new weapons) as well as being responsible for <b>onboarding and first time user experience</b>, which meant designing the tutorial and new feature introductions and fixing one of the main problems with TM which was high player drop rates early on.
 
 <a href="trailmakers.html" class="btn">Design thought process ↗</a>
 
 ## Rubber Bandits
 
-<video muted="" autoplay="" controls="" loop="" height="320px" style="max-width:100%;">
+<video muted="" autoplay="" controls="" loop="" height="360px" style="max-width:100%;">
     <source src="RubberBandits_Trailer.mp4" type="video/mp4">
 </video>
 
 > <b>Released:</b> December 2021 <br>
 > <b>Platforms:</b> Steam, Playstation 4, Xbox One, Xbox Series S/X and Nintendo Switch
 
-I was the only designer on this project for a long time, working directly under the Creative Director which meant designing all parts of the game.
+I was the only designer on this project for a long time, working directly under the Creative Director which meant designing all parts of the game with the vision in mind.
 
-I refined player controls, designed player weapons and items, game modes, gameplay modifiers, levels, the player progression system and the in-game shop UX design.
+I refined player controls, designed player abilities, weapons and items, game modes, gameplay modifiers, levels, the player progression system and the in-game shop UX design.
 
 ## Bubble Breeze Pop
 <video muted="" autoplay="" controls="" loop="" height="500px" style="max-width:100%;">
@@ -75,7 +108,7 @@ I made over <b>150 levels</b> as the level designer and was part of designing <b
 # Solo Projects
 
 ## Sumo Ball
-<video muted="" autoplay="" controls="" loop="" height="320px" style="max-width:100%;">
+<video muted="" autoplay="" controls="" loop="" height="360px" style="max-width:100%;">
     <source src="sumoball_action.mp4" type="video/mp4">
 </video>
 
@@ -96,4 +129,4 @@ On my free time you can find me on the wakeboard, playing table tennis, studying
 
 ### Feel free to reach out!
 
-[Resumé/CV](NoelToivio_CV.pdf) | [LinkedIn](https://www.linkedin.com/in/noel-toivio/) | noel@toivio.se
+[Resumé/CV](NoelToivio_CV.pdf) | [LinkedIn](https://www.linkedin.com/in/noel-toivio/) | [noel@toivio.se](mailto:noel@toivio.se)
