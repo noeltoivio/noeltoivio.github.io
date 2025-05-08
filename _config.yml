@@ -8,3 +8,5 @@ description: Game Designer Portfolio
 
 include:
   - assets/css
+
+head_custom: head-custom.html
