@@ -4,6 +4,8 @@ title: Noel Toivio
 button: false
 ---
 
+<a href="/" class="btn">Take me back</a>
+
 # Sumo Ball
 
 > Sumo Ball is one of my student portfolio pieces from my time at The Game Assembly back in 2020. The quality of my work has improved since then but by all means — feel free to take a look!
@@ -24,9 +26,6 @@ The player that fills all their score bars wins the round! Winning 3 rounds make
 - Unlockable skills that hook the players to play more
 
 <br>
-
-<a href="/" class="btn">Take me back</a>
-
 <br>
 
 ___

@@ -25,10 +25,10 @@ My name is Noel Toivio and I specialize in <b>Game Design</b>. I have been descr
 
 
 
-<br>
 
 [Resumé/CV](NoelToivio_CV.pdf) | [LinkedIn](https://www.linkedin.com/in/noel-toivio/) | [noel@toivio.se](mailto:noel@toivio.se)
 
+<br>
 <br>
 
 <style>
@@ -67,6 +67,8 @@ My name is Noel Toivio and I specialize in <b>Game Design</b>. I have been descr
 
 # Examples of my work
 
+<i>💡If you'd like to get a glimpse of my thought process, feel free to scroll down to my Sumo Ball student project.</i>
+
 ## Trailmakers 2.0 - Pioneers
 
 <video muted="" autoplay="" controls="" loop="" height="360px" style="max-width:100%;">
@@ -77,8 +79,6 @@ My name is Noel Toivio and I specialize in <b>Game Design</b>. I have been descr
 > <b>Platforms:</b> Steam, Playstation 4, Playstation 5, Xbox One and Xbox Series S/X
 
 I was both Head Design Responsible for <b>combat</b> (which meant spearheading the boss designs, enemies, new weapons) as well as being responsible for <b>onboarding and first time user experience</b>, which meant designing the tutorial and new feature introductions and fixing one of the main problems with TM which was high player drop rates early on.
-
-<a href="trailmakers.html" class="btn">Design thought process ↗</a>
 
 ## Rubber Bandits
 
@@ -101,7 +101,7 @@ I refined player controls, designed player abilities, weapons and items, game mo
 > <b>Released:</b> March 2018 <br>
 > <b>Platforms:</b> iOS and Android
 
-I made over <b>150 levels</b> as the level designer and was part of designing <b>player power-ups and abilities</b>.
+I made over 150 levels as the level designer and was part of designing player power-ups and abilities.
 
 <br>
 
@@ -114,9 +114,7 @@ I made over <b>150 levels</b> as the level designer and was part of designing <b
 
 > Developed 2020
 
-### Project info
-- 100% made by me
-- Developed in Unreal using Blueprint scripting
+Sumo Ball is one of my student portfolio pieces from my time at The Game Assembly back in 2020. It's all made by me in Unreal using Blueprint scripting. The quality of my work has improved since then but by all means — feel free to take a look!
 
 <a href="sumo_ball.html" class="btn">Design thought process ↗</a>
 
