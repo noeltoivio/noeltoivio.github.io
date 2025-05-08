@@ -25,13 +25,12 @@ My name is Noel Toivio and I specialize in <b>Game Design</b>. I have been descr
 
 <br>
 
-<img src="Noel_Toivio_Released_Games_Banner.png" alt="Noel Toivio's Released Games Banner" width="100%" height="" style="float:center;">
-
+<div style="width: 100vw; margin-left: calc(-50vw + 50%); text-align: center;">
+  <img src="Noel_Toivio_Released_Games_Banner.png" alt="Noel Toivio's Released Games Banner" style="max-width: none; width: 1219px; height: 339px;">
+</div>
 
 <br>
 <br>
-
-___
 
 # Examples of my work
 
@@ -41,17 +40,10 @@ ___
     <source src="TrailmakersPioneers_Trailer.mp4" type="video/mp4">
 </video>
 
-> Released on Steam, Playstation 4, Playstation 5, Xbox One and Xbox Series S/X
+> <b>Released:</b> March 2025 <br>
+> <b>Platforms:</b> Steam, Playstation 4, Playstation 5, Xbox One and Xbox Series S/X
 
-### Design Responsibilites
-Combat Design
-- Boss Design 1, 2 & 3
-- All new enemy types
-- New player weapons
-
-Onboarding and First Time User Experience (FTUE)
-- Beginner Tutorial
-- New feature introductions
+I was both Head Design Responsible for <b>combat</b> (which meant spearheading the boss designs, enemies, new weapons) as well as being responsible for <b>onboarding and first time user experience</b>, which meant designing the tutorial and new feature introductions. This was extra important in TM as one of the main problems with the game throughout it's history was the large amount of players dropping the game early on because of it's complexity.
 
 <a href="trailmakers.html" class="btn">Design thought process ↗</a>
 
@@ -61,25 +53,22 @@ Onboarding and First Time User Experience (FTUE)
     <source src="RubberBandits_Trailer.mp4" type="video/mp4">
 </video>
 
-> Released on Steam, Playstation 4, Xbox One, Xbox Series S/X and Nintendo Switch
+> <b>Released:</b> December 2021 <br>
+> <b>Platforms:</b> Steam, Playstation 4, Xbox One, Xbox Series S/X and Nintendo Switch
 
-### What I designed
-- Weapons and Items
-- Game Modes
-- Gameplay Modifiers
-- Levels
-- Player Progression and Item Unlock System
-- Store UX Design
+I was the only designer on this project for a long time, working directly under the Creative Director which meant designing all parts of the game.
+
+I refined player controls, designed player weapons and items, game modes, gameplay modifiers, levels, the player progression system and the in-game shop UX design.
 
 ## Bubble Breeze Pop
 <video muted="" autoplay="" controls="" loop="" height="500px" style="max-width:100%;">
     <source src="BubbleBreezePop_Trailer.mp4" type="video/mp4">
 </video>
 
-> Released on iOS and Android
+> <b>Released:</b> March 2018 <br>
+> <b>Platforms:</b> iOS and Android
 
-### What I designed
-- 150+ unique levels
+I made over <b>150 levels</b> as the level designer and was part of designing <b>player power-ups and abilities</b>.
 
 <br>
 
@@ -89,6 +78,8 @@ Onboarding and First Time User Experience (FTUE)
 <video muted="" autoplay="" controls="" loop="" height="320px" style="max-width:100%;">
     <source src="sumoball_action.mp4" type="video/mp4">
 </video>
+
+> Developed 2020
 
 ### Project info
 - 100% made by me
