@@ -13,7 +13,7 @@
 
 # Greetings, traveler!
 
-My name is Noel Toivio and I specialize in Game Design. I have been described as a dreamer, communicator, and realist, and my favorite feeling is when the whole team gets involved in making all our individual dreams come true.
+My name is Noel Toivio and I specialize in <b>Game Design</b>. I have been described as a visionary, communicator, and realist, and my favorite feeling is when the whole team gets involved in making all our individual dreams come true.
 
 **Career Summary**
 
@@ -22,6 +22,11 @@ My name is Noel Toivio and I specialize in Game Design. I have been described as
 👴 5+ years of professional experience as a Designer
 
 🎓 5 Years of Game Design education
+
+<br>
+
+<img src="Noel_Toivio_Released_Games_Banner.png" alt="Noel Toivio's Released Games Banner" width="100%" height="" style="float:center;">
+
 
 <br>
 <br>

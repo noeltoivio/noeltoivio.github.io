@@ -30,7 +30,15 @@
 }
 
 .page-header {
-    padding: 3rem 48px 2rem;
+    padding: 1rem 48px 0rem;
     background-image: linear-gradient(45deg, #4583e9, #52ff78);
+}
+
+.project-name {
+    font-size: 2.5rem;
+}
+
+.project-tagline {
+    display: none;
 }
 
