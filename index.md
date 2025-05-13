@@ -82,6 +82,7 @@ My strengths lie in being able to vividly visualize problems and opportunities, 
 Areas of responsibility:
 - <b>Design responsible for combat</b> which meant spearheading and setting the quality of the boss designs, enemies and new weapons
 - <b>Design responsible for onboarding and first time user experience</b> which meant designing the tutorial and new feature introductions and fixing one of the main problems with Trailmakers which was high player drop rates early on.
+- <b>Overseeing open world gameplay interactions</b> where I mentored designers and set the quality of physics puzzles, character interactions and enemy camps.
 
 
 <a href="trailmakers.html" class="btn">More info ↗</a>
@@ -133,7 +134,7 @@ ___
 *"When I was a kid I believed being a game developer meant scratching game discs by hand all day. And this still didn't stop me wanting to become one.
 My understanding of making games has changed a lot since then, but my passion stays the same."*
 
-On my free time you can find me on the wakeboard, playing table tennis, studying psychology, learning a new instrument, and playing lots and lots of games.
+On my free time you can find me on the wakeboard, playing DnD, playing table tennis, studying psychology, learning a new instrument, and playing lots and lots of games.
 
 ### Feel free to reach out!
 
