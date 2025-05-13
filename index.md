@@ -13,15 +13,16 @@
 
 # Greetings, traveler!
 
-My name is Noel Toivio and I specialize in <b>Game Design</b>. I have been described as a visionary, communicator, and realist, and my favorite feeling is when the whole team gets involved in making all our individual dreams come true.
+My name is Noel Toivio and I specialize in <b>Game Design</b>.
+My strengths lie in being able to vividly visualize problems and opportunities, communicate them clearly and being rational about what is achievable. My favorite feeling is when the whole team gets involved in making all our individual dreams come true to lift up the product as a whole.
 
 **Career Summary**
 
 🎉 3 released commercial games
 
-👴 5+ years of professional experience as a Designer
+👴 5+ years of professional experience as a designer
 
-🎓 5 Years of Game Design education
+🎓 5 Years of game design education
 
 
 
@@ -78,7 +79,12 @@ My name is Noel Toivio and I specialize in <b>Game Design</b>. I have been descr
 > <b>Released:</b> March 2025 <br>
 > <b>Platforms:</b> Steam, Playstation 4, Playstation 5, Xbox One and Xbox Series S/X
 
-I was both Head Design Responsible for <b>combat</b> (which meant spearheading the boss designs, enemies, new weapons) as well as being responsible for <b>onboarding and first time user experience</b>, which meant designing the tutorial and new feature introductions and fixing one of the main problems with TM which was high player drop rates early on.
+Areas of responsibility:
+- <b>Design responsible for combat</b> which meant spearheading and setting the quality of the boss designs, enemies and new weapons
+- <b>Design responsible for onboarding and first time user experience</b> which meant designing the tutorial and new feature introductions and fixing one of the main problems with Trailmakers which was high player drop rates early on.
+
+
+<a href="trailmakers.html" class="btn">More info ↗</a>
 
 ## Rubber Bandits
 
@@ -89,7 +95,7 @@ I was both Head Design Responsible for <b>combat</b> (which meant spearheading t
 > <b>Released:</b> December 2021 <br>
 > <b>Platforms:</b> Steam, Playstation 4, Xbox One, Xbox Series S/X and Nintendo Switch
 
-I was the only designer on this project for a long time, working directly under the Creative Director which meant designing all parts of the game with the vision in mind.
+I was the only designer on this project for over a year, working directly under the Creative Director which meant designing all parts of the game with the vision in mind.
 
 I refined player controls, designed player abilities, weapons and items, game modes, gameplay modifiers, levels, the player progression system and the in-game shop UX design.
 
@@ -106,6 +112,10 @@ I made over 150 levels as the level designer and was part of designing player po
 <br>
 
 # Solo Projects
+
+## Escape Death
+
+Ongoing project
 
 ## Sumo Ball
 <video muted="" autoplay="" controls="" loop="" height="360px" style="max-width:100%;">
