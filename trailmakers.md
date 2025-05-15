@@ -23,13 +23,9 @@ What I did as owner of the tutorial and player onboarding:
 - Level design with good flow with focus on making an awe-inspiring first impression.
 - Took the whole experience from concept to final implementation.
 
-## Open world puzzles and interactions
-
-For Pioneers which was all about exploring, we wanted to have side missions and optional puzzles riddled across the land. An example of this is the mysterious Obsidian Obsessor puzzles, where you had to complete physics based puzzles of moving a special rock to it's "original resting place". The challenge was to be creative with your building, making a unique contraption to achieve a very specific goal. For example, building a working crane using pistons that lifts the item to a plateau.
-
 ## Balance and stat tweaking in a multiplayer context
 
-The game is loved by a strong community of hard-core users, that spend thousands of hours making all sorts of vehicles and contraptions. When we do a change to the game, good motivation and communicating said change is a must.
+The game is loved by a strong community of hard-core users, that spend thousands of hours making all sorts of vehicles and contraptions. When we do a change to the game, that change is applied to all their beloved creations. Good motivation and communicating said change is a must.
 
 Here's an example of some patch notes I wrote for a Trailmakers balance patch.
 
@@ -47,6 +43,15 @@ Here's an example of some patch notes I wrote for a Trailmakers balance patch.
 > - Blast pushback force: 800 > 150
 > - Total allowed block penetration damage per blast: 1500 > 700
 > - Blast expansion duration: 0.05s > 0.1s
+
+
+
+## Open world puzzles and interactions
+
+For Pioneers which was all about exploring, we wanted to have side missions and optional puzzles riddled across the land. An example of this is the mysterious Obsidian Obsessor puzzles, where you had to complete physics based puzzles of moving a special rock to it's "original resting place". The challenge was to be creative with your building, making a unique contraption to achieve a very specific goal. For example, building a working crane using pistons that lifts the item to a plateau.
+
+Video coming soon™️
+
 
 
 <br>

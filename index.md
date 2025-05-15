@@ -68,8 +68,6 @@ My strengths lie in being able to vividly visualize problems and opportunities, 
 
 # Examples of my work
 
-<i>💡If you'd like to get a glimpse of my thought process, feel free to scroll down to my Sumo Ball student project.</i>
-
 ## Trailmakers 2.0 - Pioneers
 
 <video muted="" autoplay="" controls="" loop="" height="360px" style="max-width:100%;">
@@ -114,9 +112,18 @@ I made over 150 levels as the level designer and was part of designing player po
 
 # Solo Projects
 
-## Escape Death
+## Escape Death (WIP Name)
 
-Ongoing project
+video coming soon
+
+> This free-time project is currently in development <br>
+> I aim to release on Steam by the end of 2025, but let's see :)
+
+In this roguelite without enemies, I am exploring the similarities between gaining player abilities and learning real-life skills. It has a mental health theme, which is a touchy subject but one I deeply care about.
+
+- Developed in Unreal 5 by me using blueprint scripting
+
+<a href="escapedeath.html" class="btn">More info ↗</a>
 
 ## Sumo Ball
 <video muted="" autoplay="" controls="" loop="" height="360px" style="max-width:100%;">
