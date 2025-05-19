@@ -66,6 +66,9 @@ My strengths lie in being able to vividly visualize problems and opportunities, 
 <br>
 <br>
 
+
+
+
 # Examples of my work
 
 ## Trailmakers 2.0 - Pioneers
@@ -82,8 +85,10 @@ Areas of responsibility:
 - <b>Design responsible for onboarding and first time user experience</b> which meant designing the tutorial and new feature introductions and fixing one of the main problems with Trailmakers which was high player drop rates early on.
 - <b>Overseeing open world gameplay interactions</b> where I mentored designers and set the quality of physics puzzles, character interactions and enemy camps.
 
-
 <a href="trailmakers.html" class="btn">More info ↗</a>
+
+
+
 
 ## Rubber Bandits
 
@@ -98,6 +103,11 @@ I was the only designer on this project for over a year, working directly under 
 
 I refined player controls, designed player abilities, weapons and items, game modes, gameplay modifiers, levels, the player progression system and the in-game shop UX design.
 
+<a href="rubberbandits.html" class="btn">View player progression sheet ↗</a>
+
+
+
+
 ## Bubble Breeze Pop
 <video muted="" autoplay="" controls="" loop="" height="500px" style="max-width:100%;">
     <source src="BubbleBreezePop_Trailer.mp4" type="video/mp4">
@@ -110,9 +120,12 @@ I made over 150 levels as the level designer and was part of designing player po
 
 <br>
 
+
+
+
 # Solo Projects
 
-## Escape Death (WIP Name)
+## Escaping Death (WIP Name)
 
 video coming soon
 
@@ -135,6 +148,9 @@ In this roguelite without enemies, I am exploring the similarities between gaini
 Sumo Ball is one of my student portfolio pieces from my time at The Game Assembly back in 2020. It's all made by me in Unreal using Blueprint scripting. The quality of my work has improved since then but by all means — feel free to take a look!
 
 <a href="sumo_ball.html" class="btn">Design thought process ↗</a>
+
+
+
 
 ___
 
