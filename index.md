@@ -81,8 +81,8 @@ My strengths lie in being able to vividly visualize problems and opportunities, 
 > <b>Platforms:</b> Steam, Playstation 4, Playstation 5, Xbox One and Xbox Series S/X
 
 Areas of responsibility:
-- <b>Design responsible for combat</b> which meant spearheading and setting the quality of the boss designs, enemies and new weapons
-- <b>Design responsible for onboarding and first time user experience</b> which meant designing the tutorial and new feature introductions and fixing one of the main problems with Trailmakers which was high player drop rates early on.
+- <b>Design responsible for combat</b> which meant spearheading and setting the quality of the engaging boss designs, enemies and new weapons
+- <b>Design responsible for onboarding and first time user experience</b> which meant designing the tutorial and well-paced feature introductions, fixing one of the main problems with Trailmakers—high player drop rates early on.
 - <b>Overseeing open world gameplay interactions</b> where I mentored designers and set the quality of physics puzzles, character interactions and enemy camps.
 
 <a href="trailmakers.html" class="btn">More info ↗</a>

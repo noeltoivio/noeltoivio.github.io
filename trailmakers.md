@@ -22,6 +22,7 @@ What I did as owner of the tutorial and player onboarding:
 - Wrote the dialogue and designed the charming Master Sapo character.
 - Level design with good flow with focus on making an awe-inspiring first impression.
 - Took the whole experience from concept to final implementation.
+- Designed well-paced feature introductions outside of the tutorial to avoid front-loading information
 
 ## Balance and stat tweaking in a multiplayer context
 
