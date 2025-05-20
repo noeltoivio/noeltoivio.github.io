@@ -150,17 +150,3 @@ In this roguelite without enemies, I am exploring the similarities between gaini
 Sumo Ball is one of my student portfolio pieces from my time at The Game Assembly back in 2020. It's all made by me in Unreal using Blueprint scripting. The quality of my work has improved since then but by all means — feel free to take a look!
 
 <a href="sumo_ball.html" class="btn">Design thought process ↗</a>
-
-
-
-
-___
-
-*"When I was a kid I believed being a game developer meant scratching game discs by hand all day. And this still didn't stop me wanting to become one.
-My understanding of making games has changed a lot since then, but my passion stays the same."*
-
-On my free time you can find me on the wakeboard, playing DnD, playing table tennis, studying psychology, learning a new instrument, and playing lots and lots of games.
-
-### Feel free to reach out!
-
-[Resumé/CV](NoelToivio_CV.pdf) | [LinkedIn](https://www.linkedin.com/in/noel-toivio/) | [noel@toivio.se](mailto:noel@toivio.se)
