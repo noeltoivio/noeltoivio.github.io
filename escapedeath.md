@@ -21,9 +21,3 @@ button: false
 - Explore the relationship between games and mental health
 
 More info to come, stay tuned 📺
-
-<br>
-
-<a href="/" class="btn">Take me back</a>
-
-<br>

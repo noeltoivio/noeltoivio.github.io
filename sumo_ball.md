@@ -168,8 +168,3 @@ ___
 ## The player blueprint
 
 ![Picture of Sumo Ball player script](sumoball_playerscript.jpg)
-
-<br>
-<br>
-
-<a href="/" class="btn">Back to Home</a>

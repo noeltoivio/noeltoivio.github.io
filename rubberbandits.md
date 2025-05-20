@@ -15,9 +15,3 @@ For my own sake as owner of the progression system I made use of my scripting sk
 ![Rubber Bandits reward progression sheet](RB_Sheet.png)
 
 <i>Right-click and press "Open image in new tab" to get a closer look</i>
-
-<br>
-
-<a href="/" class="btn">Take me back</a>
-
-<br>

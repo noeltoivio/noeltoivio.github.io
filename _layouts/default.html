@@ -33,6 +33,10 @@
 
       <footer class="site-footer">
 
+        {% unless page.url == "/" %}
+          <a href="{{ '/' | relative_url }}" class="btn">← Back to Home</a>
+        {% endunless %}
+
         <p><em>"When I was a kid I believed being a game developer meant scratching game discs by hand all day. And this still didn't stop me wanting to become one.  
         My understanding of making games has changed a lot since then, but my passion stays the same."</em></p>
 

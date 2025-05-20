@@ -51,11 +51,3 @@ Here's an example of some patch notes I wrote for a Trailmakers balance patch.
 For Pioneers which was all about exploring, we wanted to have side missions and optional puzzles riddled across the land. An example of this is the mysterious Obsidian Obsessor puzzles, where you had to complete physics based puzzles of moving a special rock to it's "original resting place". The challenge was to be creative with your building, making a unique contraption to achieve a very specific goal. For example, building a working crane using pistons that lifts the item to a plateau.
 
 Video coming soon™️
-
-
-
-<br>
-
-<a href="/" class="btn">Take me back</a>
-
-<br>
