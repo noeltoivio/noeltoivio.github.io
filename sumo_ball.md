@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Noel Toivio
+title:  Noel Toivio — Game Designer
 button: false
 ---
 

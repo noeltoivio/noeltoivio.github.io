@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Noel Toivio
+title: Noel Toivio — Game Designer
 button: false
 ---
 
@@ -18,6 +18,12 @@ button: false
 
 - Stepping out of my comfort zone and learn about all parts of development like modelling, rigging, animating, narrative, localization, release process etc.
 - Explore low-scope development—can I make it fun <i>and</i> cheap?
-- Explore the relationship between games and mental health
+- Deep-dive and discover the relationship between two of my main interests, games and psychology
 
-More info to come, stay tuned 📺
+<br>
+
+More info to come as I'm still working on this, so stay tuned 📺
+
+*If you wish to read more about my work in Unreal, check out my game Sumo Ball here:*
+
+<a href="sumo_ball.html" class="btn">Sumo Ball ↗</a>

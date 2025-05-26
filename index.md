@@ -125,16 +125,16 @@ I made over 150 levels as the level designer and was part of designing player po
 
 # Solo Projects
 
-## Escaping Death (WIP Name)
+## Escaping Death (WIP)
 
 <video muted="" autoplay="" controls="" loop="" height="360px" style="max-width:100%;">
     <source src="TrailerEscapeDeath_v0.5.mp4" type="video/mp4">
 </video>
 
-> This free-time project is currently in development <br>
+> This free-time project is currently in development. <br>
 > I aim to release on Steam by the end of 2025, but let's see :)
 
-In this roguelite without enemies, I am exploring the similarities between gaining player abilities and learning real-life skills. It has a mental health theme, which is a touchy subject but one I deeply care about.
+In this roguelite without enemies, I am exploring the similarities between gaining player abilities and learning real-life skills. It has a mental health theme, which is a heavy subject but one I deeply care about.
 
 - Developed in Unreal 5 by me using blueprint scripting
 
@@ -145,7 +145,7 @@ In this roguelite without enemies, I am exploring the similarities between gaini
     <source src="sumoball_action.mp4" type="video/mp4">
 </video>
 
-> Developed 2020
+> Developed 2020 for PC
 
 Sumo Ball is one of my student portfolio pieces from my time at The Game Assembly back in 2020. It's all made by me in Unreal using Blueprint scripting. The quality of my work has improved since then but by all means — feel free to take a look!
 
