@@ -128,7 +128,7 @@ I made over 150 levels as the level designer and was part of designing player po
 ## Escaping Death (WIP)
 
 <video muted="" autoplay="" controls="" loop="" height="360px" style="max-width:100%;">
-    <source src="TrailerEscapeDeath_v0.5.mp4" type="video/mp4">
+    <source src="EscapeDeath_Trailer.mp4" type="video/mp4">
 </video>
 
 > This free-time project is currently in development. <br>

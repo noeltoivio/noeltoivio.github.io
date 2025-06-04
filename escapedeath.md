@@ -9,7 +9,7 @@ button: false
 # Escape Death (WIP)
 
 <video muted="" autoplay="" controls="" loop="" height="360px" style="max-width:100%;">
-    <source src="TrailerEscapeDeath_v0.5.mp4" type="video/mp4">
+    <source src="EscapeDeath_Trailer.mp4" type="video/mp4">
 </video>
 
 > As this project is still in development I will add more content as the game grows.
