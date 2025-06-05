@@ -24,7 +24,9 @@ What I did as owner of the tutorial and player onboarding:
 - Took the whole experience from concept to final implementation.
 - Designed well-paced feature introductions outside of the tutorial to avoid front-loading information
 
-## Balance and stat tweaking in a multiplayer context
+## Patch Notes
+
+<i> An example of balancing and stat tweaking in a multiplayer context </i>
 
 The game is loved by a strong community of hard-core users, that spend thousands of hours making all sorts of vehicles and contraptions. When we do a change to the game, that change is applied to all their beloved creations. Good motivation and communicating said change is a must.
 
