@@ -6,6 +6,8 @@ button: false
 
 # Rubber Bandits
 
+[![Steam Link](steam-logo.png)](https://store.steampowered.com/app/1206610/Rubber_Bandits/){:target="_blank"}
+
 I wore many hats as a designer on this project, here are some more info about what I did:
 
 ## Player progression system

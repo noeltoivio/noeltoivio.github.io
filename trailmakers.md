@@ -8,6 +8,8 @@ button: false
 
 # Trailmakers 2.0 - Pioneers
 
+[![Steam Link](steam-logo.png)](https://store.steampowered.com/app/585420/Trailmakers/){:target="_blank"}
+
 ## Tutorial and First Time User Experience
 
 I was responsible for fixing one of Trailmakers biggest issues — High player drop rates early on. The game is very technical and hard to get into, so I aimed to create an onboarding experience to ease new players into the game and getting comfortable quick for Pioneers 2.0, with the goal of them becoming part of the hard core player base we know and love.
