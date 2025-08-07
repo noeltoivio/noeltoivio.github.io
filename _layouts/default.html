@@ -26,21 +26,29 @@
 
       <footer class="site-footer">
 
-        {% unless page.url == "/" %}
-          <a href="{{ '/' | relative_url }}" class="btn">← Back to Home</a>
+        {% unless page.url == "/" or page.url == "/ld/" %}
+          {% if page.section == "level" %}
+            <a href="{{ '/ld/' | relative_url }}" class="btn">← Back to Home</a>
+          {% else %}
+            <a href="{{ '/' | relative_url }}" class="btn">← Back to Home</a>
+         {% endif %}
         {% endunless %}
 
         <p><em>"When I was a kid I believed being a game developer meant scratching game discs by hand all day. And this still didn't stop me wanting to become one.  
         My understanding of making games has changed a lot since then, but my passion stays the same."</em></p>
 
-        <img src="PonderingBandit.png"
-             alt="Pondering Rubber Bandit"
-             style="bottom: 0; float: right; width: 200px;">
+        <img src="{{ '/PonderingBandit.png' | relative_url }}"
+          alt="Pondering Rubber Bandit"
+          style="bottom: 0; float: right; width: 200px;">
 
         <h3>Feel free to reach out!</h3>
 
         <p>
-          <a href="{{ '/NoelToivio_CV.pdf' | relative_url }}">Resumé/CV</a> |
+          {% if page.section == "level" %}
+            <a href="{{ '/ld/NoelToivio_CV.pdf' | relative_url }}">Resumé/CV</a>
+          {% else %}
+            <a href="{{ '/NoelToivio_CV.pdf' | relative_url }}">Resumé/CV</a>
+          {% endif %} |
           <a href="https://www.linkedin.com/in/noel-toivio/">LinkedIn</a> |
           <a href="mailto:noel@toivio.se">noel@toivio.se</a>
         </p>        
