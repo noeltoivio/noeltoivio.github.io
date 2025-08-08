@@ -80,7 +80,7 @@ I believe that great level design is as much about space planning, gameplay, and
 ## Trailmakers 2.0 - Pioneers
 
 <video muted="" autoplay="" controls="" loop="" height="360px" style="max-width:100%;">
-    <source src="../TrailmakersPioneers_Trailer.mp4" type="../video/mp4">
+    <source src="../TrailmakersPioneers_Trailer.mp4" type="video/mp4">
 </video>
 
 > <b>Released:</b> March 2025 <br>
@@ -99,7 +99,7 @@ Areas of responsibility:
 ## Rubber Bandits
 
 <video muted="" autoplay="" controls="" loop="" height="360px" style="max-width:100%;">
-    <source src="../RubberBandits_Trailer.mp4" type="../video/mp4">
+    <source src="../RubberBandits_Trailer.mp4" type="video/mp4">
 </video>
 
 > <b>Released:</b> December 2021 <br>
@@ -114,7 +114,7 @@ I designed levels, refined player controls, designed player abilities, weapons a
 
 ## Bubble Breeze Pop
 <video muted="" autoplay="" controls="" loop="" height="500px" style="max-width:100%;">
-    <source src="../BubbleBreezePop_Trailer.mp4" type="../video/mp4">
+    <source src="../BubbleBreezePop_Trailer.mp4" type="video/mp4">
 </video>
 
 > <b>Released:</b> March 2018 <br>
@@ -132,7 +132,7 @@ I made over 150 levels as the level designer and was part of designing player po
 ## Escaping Death (WIP)
 
 <video muted="" autoplay="" controls="" loop="" height="360px" style="max-width:100%;">
-    <source src="../EscapeDeath_Trailer.mp4" type="../video/mp4">
+    <source src="../EscapeDeath_Trailer.mp4" type="video/mp4">
 </video>
 
 > This free-time project is currently in development. <br>
@@ -146,7 +146,7 @@ In this roguelite without enemies, I am exploring the similarities between gaini
 
 ## Sumo Ball
 <video muted="" autoplay="" controls="" loop="" height="360px" style="max-width:100%;">
-    <source src="../sumoball_action.mp4" type="../video/mp4">
+    <source src="../sumoball_action.mp4" type="video/mp4">
 </video>
 
 > Developed 2020 for PC
