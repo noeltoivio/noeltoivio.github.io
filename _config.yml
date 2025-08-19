@@ -8,5 +8,6 @@ description: Game Designer Portfolio
 
 include:
   - assets/css
+  - favicon.ico
 
 head_custom: head-custom.html
