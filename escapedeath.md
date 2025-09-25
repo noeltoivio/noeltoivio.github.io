@@ -22,8 +22,22 @@ button: false
 
 <br>
 
-More info to come as I'm still working on this, so stay tuned 📺
+***
 
-*If you wish to read more about my work in Unreal, check out my game Sumo Ball here:*
+## Video walkthrough of the Grappling Hook
+
+<b>Length: ~5 minutes</b>
+
+> This was scripted by me in Blueprint using the Gameplay Ability System (GAS).
+> I quickly explain how the code works, as well as gloss over some design thoughts.
+
+<video controls="" height="500px" style="max-width:100%;">
+    <source src="ED_GrapplingHookWalkthrough.mp4" type="video/mp4">
+</video>
+
+<br>
+
+More info to come as I'm still working on this, so stay tuned 📺 <br> 
+If you wish to read more about my work in Unreal, check out my student project Sumo Ball here:
 
 <a href="sumo_ball.html" class="btn">Sumo Ball ↗</a>
