@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Noel Toivio — Game Designer
 button: false
 ---
 
@@ -16,7 +15,7 @@ I was responsible for fixing one of Trailmakers biggest issues — High player d
 
 <i>Below is a video of YouTuber Scrap Man getting his hands on the tutorial.</i>
 
-[![Scrapman playing the Trailmakers Pioneers Tutorial](https://img.youtube.com/vi/MlpHn9YX4tA/0.jpg)](https://www.youtube.com/watch?v=MlpHn9YX4tA&t=142s)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MlpHn9YX4tA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 What I did as owner of the tutorial and player onboarding:
 - Designed the bite-sized and intriguing tutorial steps.

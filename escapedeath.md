@@ -31,9 +31,7 @@ button: false
 > This was scripted by me in Blueprint using the Gameplay Ability System (GAS).
 > I quickly explain how the code works, as well as gloss over some design thoughts.
 
-<video controls="" height="500px" style="max-width:100%;">
-    <source src="ED_GrapplingHookWalkthrough.mp4" type="video/mp4">
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q3yMlDFQj4o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
