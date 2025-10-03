@@ -6,13 +6,12 @@ button: false
 
 <a href="/" class="btn">Take me back</a>
 
-# Escape Death (WIP)
+
+# Escape Death trailer (WIP) 
 
 <video muted="" autoplay="" controls="" loop="" height="360px" style="max-width:100%;">
     <source src="EscapeDeath_Trailer.mp4" type="video/mp4">
 </video>
-
-> As this project is still in development I will add more content as the game grows.
 
 ## My goals with this project
 
@@ -24,7 +23,7 @@ button: false
 
 ***
 
-## Video walkthrough of the Grappling Hook
+<h2 id="video">Video walkthrough of the Grappling Hook</h2>
 
 <b>Length: ~5 minutes</b>
 
