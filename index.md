@@ -103,7 +103,7 @@ I was the only designer on this project for over a year, working directly under 
 
 I refined player controls, designed player abilities, weapons and items, game modes, gameplay modifiers, levels, the player progression system and the in-game shop UX design.
 
-<a href="rubberbandits.html" class="btn">View player progression sheet ↗</a>
+<a href="rubberbandits.html" class="btn">More info ↗</a>
 
 
 
