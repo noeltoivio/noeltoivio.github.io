@@ -30,7 +30,7 @@ button: false
 > This was scripted by me in Blueprint using the Gameplay Ability System (GAS).
 > I quickly explain how the code works, as well as gloss over some design thoughts.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q3yMlDFQj4o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/alvB0OrNsoA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
