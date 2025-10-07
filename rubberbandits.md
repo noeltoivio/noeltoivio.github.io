@@ -33,7 +33,7 @@ Unique gameplay element:
 
 ***
 
-## Player progression sheet showcase
+<h2 id="sheet">Player progression sheet showcase</h2>
 
 For my own sake as owner of the progression system I made use of my scripting skills within Google Sheets to get a better idea of what I wanted to achieve. Based on the values put into the system I generated graphs and calculations to better visualize my thoughts.
 
