@@ -9,12 +9,11 @@
 </style>
 
 
-<img src="noel toivio 2.jpg" alt="Image of Noel Toivio" width="30%" height="" style="float:right; border-radius: 10%; margin: 0 0 15px 15px;">
+<img src="noel toivio 2.jpg" alt="Image of Noel Toivio" width="25%" height="" style="float:right; border-radius: 10%; margin: 0 0 15px 15px;">
 
-# Greetings, traveler!
+# Greetings, visitor 👋
 
-My name is Noel Toivio and I specialize in <b>Game Design</b>.
-My strengths lie in being able to vividly visualize problems and opportunities, communicate them clearly and being rational about what is achievable. My favorite feeling is when the whole team gets involved in making all our individual dreams come true to lift up the product as a whole.
+My name is Noel Toivio, a <b>Game Designer</b> with a passion for establishing quality, robustness and win-win situations.
 
 **Career Summary**
 
